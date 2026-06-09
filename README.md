@@ -122,11 +122,8 @@ Save Image
 
 | Document                                                                  | Description                                |
 | ------------------------------------------------------------------------- | ------------------------------------------ |
-| 📘 [Node Explanations](docs/node-explanations.md)                         | Detailed explanation of all workflow nodes |
-| 📗 [Optimization Notes](docs/optimization-notes.md)                       | Workflow testing and optimization          |
-| 📙 [Architecture Explanation](interview-prep/architecture-explanation.md) | Design decisions and workflow architecture |
-| 📕 [Technical Interview Questions](interview-prep/technical-questions.md) | Technical discussion preparation           |
-| 📔 [Recruiter Questions](interview-prep/recruiter-questions.md)           | Portfolio presentation preparation         |
+| 📘 [Node Explanations](docs/node_explanations.md)                         | Detailed explanation of all workflow nodes |
+| 📗 [Optimization Notes](docs/optimization_notes.md)                       | Workflow testing and optimization          |
 
 ---
 
