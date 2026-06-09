@@ -43,6 +43,10 @@ to preserve pose information while allowing prompt-driven image generation.
 ## Workflow Graph
 
 ![Workflow Graph](images/workflow.png)
+---
+![Workflow Graph](images/workflow_02.png)
+---
+![Workflow Graph](images/workflow_scifi.png)
 
 ---
 
@@ -50,19 +54,28 @@ to preserve pose information while allowing prompt-driven image generation.
 
 ### Pose Reference
 
-![Pose](images/pose-reference.png)
+![Pose](images/pose_ref_01.jpg)
+![Pose](images/pose_ref_02.png)
 
 ### Output 01
 
-![Output 01](images/output-01.png)
+![Output 01](images/output_01.png)
 
 ### Output 02
 
-![Output 02](images/output-02.png)
+![Output 02](images/output_02.png)
 
 ### Output 03
 
-![Output 03](images/output-03.png)
+![Output 03](images/output_03.png)
+
+### Output 04
+
+![Output 03](images/output_04.png)
+
+### Output 05
+
+![Output 03](images/output_05.png)
 
 ---
 
