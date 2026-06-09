@@ -36,7 +36,7 @@ to preserve pose information while allowing prompt-driven image generation.
 
 ## Architecture Diagram
 
-![Architecture Diagram](images/architecture-diagram.png)
+![Architecture Diagram](images/Architecture_diagram.png)
 
 ---
 
